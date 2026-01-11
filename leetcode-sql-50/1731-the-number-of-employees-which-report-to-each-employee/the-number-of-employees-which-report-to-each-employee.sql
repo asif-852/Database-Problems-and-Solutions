@@ -19,4 +19,4 @@ WHERE
 GROUP BY
     manager_id
 ORDER BY
-    employee_id;
+    manager_id;
